@@ -1,0 +1,10 @@
+D:\Desktop\Projects\MCModListLoader\MCModListLoader\bin\Release\MCModListLoader.exe.config
+D:\Desktop\Projects\MCModListLoader\MCModListLoader\bin\Release\MCModListLoader.exe
+D:\Desktop\Projects\MCModListLoader\MCModListLoader\bin\Release\MCModListLoader.pdb
+D:\Desktop\Projects\MCModListLoader\MCModListLoader\obj\Release\MCModListLoader.csprojAssemblyReference.cache
+D:\Desktop\Projects\MCModListLoader\MCModListLoader\obj\Release\MCModListLoader.MCModpackListLoader.resources
+D:\Desktop\Projects\MCModListLoader\MCModListLoader\obj\Release\MCModListLoader.Properties.Resources.resources
+D:\Desktop\Projects\MCModListLoader\MCModListLoader\obj\Release\MCModListLoader.csproj.GenerateResource.cache
+D:\Desktop\Projects\MCModListLoader\MCModListLoader\obj\Release\MCModListLoader.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects\MCModListLoader\MCModListLoader\obj\Release\MCModListLoader.exe
+D:\Desktop\Projects\MCModListLoader\MCModListLoader\obj\Release\MCModListLoader.pdb
